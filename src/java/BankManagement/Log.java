@@ -19,7 +19,7 @@ import java.util.logging.SimpleFormatter;
  *
  * @author ganusha_m
  */
-//add comment 
+//add comment by ganusha
 
 public class Log {
 
